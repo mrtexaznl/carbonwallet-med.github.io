@@ -4,7 +4,7 @@ Bitcoin.Address = function (bytes) {
   }
   this.hash = bytes;
 
-  this.version = 0x00;
+  this.version = 0x33;
 };
 
 /**
